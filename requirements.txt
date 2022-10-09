@@ -3,3 +3,5 @@ sklearn
 plotly
 seaborn
 dask
+dtw-python
+fastdtw
